@@ -1,2 +1,2 @@
 # Fishes-of-Basrah-Province-Iraq
-https://www.researchgate.net/profile/Najim_Khamees/publication/309189021_Checklists_of_Protozoans_and_Myxozoans_of_Freshwater_and_Marine_Fishes_of_Basrah_Province_Iraq/links/5813979908ae90acb23b7951.pdf
+A dataset of fish pathogens from Mhaisen, F.T., Ali, A.H. and Khamees, N.R., Checklists of Protozoans and Myxozoans of Freshwater and Marine Fishes of Basrah Province, Iraq. that will be available through Global Biotic Interactions (GloBI, http://globalbioticinteractions.org).
